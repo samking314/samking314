@@ -9,10 +9,10 @@ My online profiles:
 - <a href="https://www.linkedin.com/in/samuel-king-862898134/">LinkedIn</a>
 
 About me:
-- I live and work full time in my van, Arthur!
-- I love locally produced goods
+- I live and work full time in my van, Arthur! 🚐
+- locally produced goods are the best 🥬🍺☕️
 - I farmed in Cali for 3 months 👨‍🌾
-- I love rock climbing
-- I think maths, technology and art are amazing
+- I love rock climbing 🧗‍♂️
+- I think maths, technology and art are amazing 🧮💻🖼
 
 Reach me at samrk314@gmail.com
