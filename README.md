@@ -7,3 +7,10 @@ I am:
 My online profiles:
 - <a href="https://stackoverflow.com/users/9816373/sam-king">Stack Overflow</a>
 - <a href="https://www.linkedin.com/in/samuel-king-862898134/">LinkedIn</a>
+
+About me:
+- I live and work full time in my van, Arthur!
+- I love locally produced goods
+- I farmed in Cali for 3 months 👨‍🌾
+- I love rock climbing
+- I think maths, technology and art are amazing
