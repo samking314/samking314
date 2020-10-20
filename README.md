@@ -3,6 +3,7 @@
 I am:
 - looking for contract work involving: Node, Swift, React-Native, React, Redux, AWS and/or MongoDB (+ if has social impact)
 - working on a fun project to optimize drone delivery paths in Python (a side project I've been working on and off for 3 years)
+- inspired by Reggie Watts to build an app just about me hehe (<a href="https://apps.apple.com/us/app/wattsapp-by-reggie-watts/id1489429381">Wattsapp</a>)
 
 My online profiles:
 - <a href="https://stackoverflow.com/users/9816373/sam-king">Stack Overflow</a>
