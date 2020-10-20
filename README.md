@@ -14,3 +14,5 @@ About me:
 - I farmed in Cali for 3 months 👨‍🌾
 - I love rock climbing
 - I think maths, technology and art are amazing
+
+Reach me at samrk314@gmail.com
