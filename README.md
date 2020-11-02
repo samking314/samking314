@@ -1,5 +1,7 @@
 ### Welcome. My name is Sam King.
 
+[![Gmail Badge](https://img.shields.io/badge/-samrk314%40gmail.com-000001?style=flat-square&logo=Gmail&logoColor=BB001B&color=000)](mailto:samrk314@gmail.com)
+
 I am:
 - looking for contract work involving: <b>Node</b>, <b>Swift</b>, <b>React-Native</b>, <b>React</b>, Redux, AWS and/or MongoDB (+ if has social impact)
 - adding a backend API to a fun <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones
@@ -16,5 +18,3 @@ About me:
 - I love rock climbing 🧗‍♂️
 - I think maths, technology and art are amazing 🧮💻🖼
 - I get inspiration from good design and Richard Feynman
-
-Reach me at samrk314@gmail.com
