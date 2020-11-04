@@ -5,7 +5,7 @@
 
 I am:
 - looking for contract work involving: <b>Node</b>, <b>Swift</b>, <b>React-Native</b>, <b>React</b>, Redux, AWS and/or MongoDB (+ if has social impact)
-- adding a backend API to a fun <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones
+- finished with a backend API to a fun <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones
 - planning to learn Ruby after the above project
 
 About me:
