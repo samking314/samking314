@@ -1,7 +1,5 @@
 ### Welcome. My name is Sam King.
 
-![I VOTED](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
-
 [![Gmail Badge](https://img.shields.io/badge/-samrk314%40gmail.com-000001?style=flat-square&logo=Gmail&logoColor=BB001B&color=000)](mailto:samrk314@gmail.com) [![Keybase Badge](https://img.shields.io/badge/-%40samthaman-000002?style=flat-square&logo=Keybase&logoColor=2a89fe&color=000)](https://keybase.io/samthaman)
 [![Stack Overflow Badge](https://img.shields.io/badge/-%40SamKing-000002?style=flat-square&logo=Stackoverflow&logoColor=FE7A16&color=000)](https://stackoverflow.com/users/9816373/sam-king) [![LinkedIn Badge](http://img.shields.io/badge/-%40SamuelKing-000002?style=flat-square&logo=Linkedin&logoColor=0077B5&color=000)](https://www.linkedin.com/in/samuel-king-862898134/)
 
