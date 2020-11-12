@@ -6,7 +6,7 @@
 I am:
 - looking for contract work involving: <b>Node</b>, <b>Swift</b>, <b>React-Native</b>, <b>React</b>, Redux, AWS and/or MongoDB (+ if has social impact)
 - finished with a web simulator <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones!
-- working on a web app to help manage energy usage in my van
+- working on a <a href="https://github.com/samking314/evan">web app</a> to help manage energy usage in my van
 - planning to learn Ruby after the above project
 
 About me:
