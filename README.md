@@ -8,6 +8,7 @@ I am:
 - finished with a web simulator <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones!
 - working on a <a href="https://github.com/samking314/evan">web app</a> to help manage energy usage in my van
 - planning to learn Ruby after the above project
+- reviewing posts from other members on my Stack Overflow
 
 About me:
 - I live and work full time in my van, Arthur! 🚐
