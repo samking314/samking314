@@ -7,7 +7,6 @@ I am:
 - looking for work involving: <b>Node</b>, <b>Swift</b>, <b>React-Native</b>, <b>React</b>, Redux, AWS and/or MongoDB (+ if has social impact)
 - finished with a web simulator <a href="https://github.com/samking314/DroneResourceDelivery">python project</a> involving drones!
 - working on a <a href="https://github.com/samking314/evan">web app</a> to help manage energy usage in my van
-- planning to learn Ruby after the above project
 - reviewing posts from other members on my Stack Overflow
 
 About me:
