@@ -5,7 +5,6 @@
 
 I am:
 - working on a <a href="https://github.com/samking314/evan">web app</a> to help manage energy usage in my van
-- also learning Redux toolkit to implement in my future React projects
 - reviewing posts from other members on my Stack Overflow
 
 About me:
