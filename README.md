@@ -4,6 +4,7 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/-%40SamKing-000002?style=flat-square&logo=Stackoverflow&logoColor=FE7A16&color=000)](https://stackoverflow.com/users/9816373/sam-king) [![LinkedIn Badge](http://img.shields.io/badge/-%40SamuelKing-000002?style=flat-square&logo=Linkedin&logoColor=0077B5&color=000)](https://www.linkedin.com/in/samuel-king-862898134/)
 
 I am:
+- working at Apple
 - reviewing posts from other members on my Stack Overflow
 
 About me:
