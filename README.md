@@ -8,6 +8,7 @@ I am:
 - developing an app that can in one sentence instantiate an app framework based on speech to text
 - writing articles [here](https://barrelproofapps.com/blog/post/swiftui-better-native-ios)
 - reviewing posts from other members on my Stack Overflow
+- and contributing to oss projects where I can!
 
 About me:
 - I just moved to California with my van, Arthur! 🚐
