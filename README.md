@@ -5,6 +5,7 @@
 
 I am:
 - working at Apple
+- developing an app that can one-click instantiate an app framework based on speech to text
 - reviewing posts from other members on my Stack Overflow
 
 About me:
