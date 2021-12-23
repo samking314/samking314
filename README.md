@@ -5,7 +5,7 @@
 
 I am:
 - working at Apple
-- developing an app that can in one sentence instantiate an app framework based on speech to text
+- developing an app that can in one sentence instantiate an app framework based on speech to text (reach out if you'd like access)
 - writing articles [here](https://barrelproofapps.com/blog/post/swiftui-better-native-ios)
 - reviewing posts from other members on my Stack Overflow
 - and contributing to oss projects where I can!
