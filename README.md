@@ -9,6 +9,7 @@ I am:
 - writing articles [here](https://barrelproofapps.com/blog/post/swiftui-better-native-ios)
 - reviewing posts from other members on Stack Overflow
 - and contributing to oss projects where I can!
+- tryaing to avoid microsoft making money off of my code
 
 About me:
 - I just moved to California with my van, Arthur! 🚐
